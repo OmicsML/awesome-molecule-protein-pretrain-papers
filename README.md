@@ -8,6 +8,8 @@
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
   - [Protein Generative Model](#protein-generative-model)
   - [Protein Dataset](#protein-dataset)
+- [3D Model](#3d-model)
+  - [SE(3) Model](#se3-model)
 
 # Molecule
 ## Molecule Pretrain Model / Representation Learning
@@ -25,7 +27,7 @@
 1. [2022 NIPS] **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [[paper]](https://openreview.net/pdf?id=mCzMqeWSFJ)[[code]](https://github.com/divelab/DIG)
 1. [2022 Nvidia] **MegaMolBART** [[web-link]](https://docs.nvidia.com/launchpad/ai/clara-megamolbart/latest/clara-megamolbart-overview.html)[[code]](https://github.com/NVIDIA/MegaMolBART)
 ## Molecule Generative Model
-1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W) [[code]](https://github.com/divelab/DIG)
+1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
 1. [2021 ICML] **GraphDF: A Discrete Flow Model for Molecular Graph Generation**[[paper]](https://proceedings.mlr.press/v139/luo21a.html)[[code]](https://github.com/divelab/DIG)
 1. [2023 ICLR workshop] **Improving Small Molecule Generation using Mutual Information Machine** [[paper]](https://openreview.net/forum?id=iOJlwUTUyrN) 
 1. [2020 KDD] **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403104)[[code]](https://github.com/calvin-zcx/moflow)
@@ -36,11 +38,15 @@
 
 ## Protein Pretrain Model / Representation Learning
 1. [2021 Nature] **Highly accurate protein structure prediction with AlphaFold** [[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)
-1. [2022 bioRxiv] **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v3.full.pdf) [[code]](https://github.com/aqlaboratory/openfold)
+1. [2022 bioRxiv] **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v3.full.pdf)[[code]](https://github.com/aqlaboratory/openfold)
 1. [2022 bioRxiv] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf?utm_campaign=M2D2%20Community%20Round-Up&utm_medium=email&utm_source=Revue%20newsletter)
 1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118)[[code]](https://github.com/facebookresearch/esm)
 1. [2023 Science] **Evolutionary-scale prediction of atomic-level protein structure with a language model** [[paper]](https://www.science.org/doi/abs/10.1126/science.ade2574)[[code]](https://github.com/facebookresearch/esm)
 1. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
 ## Protein Generative Model
-1. [2023 ICLR] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ) [[code]](https://github.com/divelab/DIG)
+1. [2023 ICLR] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)[[code]](https://github.com/divelab/DIG)
 ## Protein Dataset
+
+# 3D Model 
+## SE(3) Model
+1.[2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
