@@ -3,6 +3,7 @@
 - [Molecule](#molecule)
   - [Molecule Pretrain Model / Representation Learning](#molecule-pretrain-model--representation-learning)
   - [Molecule Generative Model](#molecule-generative-model)
+  - [Molecule Protein Docking Model](#molecule-protein-docking-model)
   - [Molecule Dataset](#molecule-dataset)
 - [Protein](#protein)
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
@@ -32,6 +33,11 @@
 1. [2023 ICLR workshop] **Improving Small Molecule Generation using Mutual Information Machine** [[paper]](https://openreview.net/forum?id=iOJlwUTUyrN) 
 1. [2020 KDD] **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403104)[[code]](https://github.com/calvin-zcx/moflow)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+
+## Molecule Protein Docking Model
+1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+1. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
+1. [2016 Journal of Chemical Information and Modeling] **Protein-Ligand Scoring with Convolutional Neural Networks** [[paper]](https://arxiv.org/pdf/1612.02751.pdf)
 ## Molecule Dataset
 
 # Protein 
@@ -49,4 +55,4 @@
 
 # 3D Model 
 ## SE(3) Model
-1.[2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
+1. [2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
