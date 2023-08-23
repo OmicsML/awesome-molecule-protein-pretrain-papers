@@ -63,7 +63,7 @@
 ## Protein Generative Model
 1. [2023 ICLR] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)[[code]](https://github.com/divelab/DIG)
 1. [2023 ICML] **Se(3) diffusion model with application to protein backbone generation** [[paper]](https://arxiv.org/pdf/2302.02277.pdf)[[code]](https://github.com/jasonkyuyim/se3_diffusion)
-1. [[2023 ICLR]] **Diffusion probabilistic modeling of protein backbones in 3d for the motif- scaffolding problem** [[paper]](https://openreview.net/forum?id=6TxBxqNME1Y)[[code]](https://github.com/blt2114/ProtDiff_SMCDiff)
+1. [2023 ICLR] **Diffusion probabilistic modeling of protein backbones in 3d for the motif- scaffolding problem** [[paper]](https://openreview.net/forum?id=6TxBxqNME1Y)[[code]](https://github.com/blt2114/ProtDiff_SMCDiff)
 ## Protein Dataset
 
 # 3D Model 
