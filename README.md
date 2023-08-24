@@ -34,7 +34,7 @@
 1. [2023 ICLR workshop] **Improving Small Molecule Generation using Mutual Information Machine** [[paper]](https://openreview.net/forum?id=iOJlwUTUyrN) 
 1. [2020 KDD] **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403104)[[code]](https://github.com/calvin-zcx/moflow)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-1. [2022 ICLR] **Geodiff: A geometric diffusion model for molecular conformation generation.** [[paper]](https://arxiv.org/pdf/2203.02923.pdf)[[code]](https://github.com/MinkaiXu/GeoDiff)
+1. [2022 ICLR] **Geodiff: A geometric diffusion model for molecular conformation generation** [[paper]](https://arxiv.org/pdf/2203.02923.pdf)[[code]](https://github.com/MinkaiXu/GeoDiff)
 1. [2022 ICML] **Equivariant Diffusion for Molecule Generation in 3D** [[paper]](https://arxiv.org/pdf/2203.17003.pdf)[[code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 
 ## Molecule Protein Docking Model
@@ -47,6 +47,7 @@
 1. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
 1. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
 1. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
+1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand**[[paper]](https://arxiv.org/pdf/2206.12241.pdf)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 
 ## Molecule Dataset
@@ -70,3 +71,4 @@
 ## SE(3) Model
 1. [2018 arXiv] **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds** [[paper]](https://arxiv.org/pdf/1802.08219.pdf)[[code]](https://github.com/tensorfieldnetworks/tensorfieldnetworks)
 1. [2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
+1. [2022 ICLR workshop] **Denoising diffu- sion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
