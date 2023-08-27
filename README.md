@@ -29,13 +29,14 @@
 1. [2022 Nvidia] **MegaMolBART** [[web-link]](https://docs.nvidia.com/launchpad/ai/clara-megamolbart/latest/clara-megamolbart-overview.html)[[code]](https://github.com/NVIDIA/MegaMolBART)
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 ## Molecule Generative Model
-1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
 1. [2021 ICML] **GraphDF: A Discrete Flow Model for Molecular Graph Generation**[[paper]](https://proceedings.mlr.press/v139/luo21a.html)[[code]](https://github.com/divelab/DIG)
 1. [2023 ICLR workshop] **Improving Small Molecule Generation using Mutual Information Machine** [[paper]](https://openreview.net/forum?id=iOJlwUTUyrN) 
 1. [2020 KDD] **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403104)[[code]](https://github.com/calvin-zcx/moflow)
-1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 1. [2022 ICLR] **Geodiff: A geometric diffusion model for molecular conformation generation** [[paper]](https://arxiv.org/pdf/2203.02923.pdf)[[code]](https://github.com/MinkaiXu/GeoDiff)
 1. [2022 ICML] **Equivariant Diffusion for Molecule Generation in 3D** [[paper]](https://arxiv.org/pdf/2203.17003.pdf)[[code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
+1. [2022 NIPS] **Torsional Diffusion for Molecular Conformer Generation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/994545b2308bbbbc97e3e687ea9e464f-Paper-Conference.pdf)[[code]](https://github.com/gcorso/torsional-diffusion)
+1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
+1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 
 ## Molecule Protein Docking Model
 1. [2015 Bioinformatics] **Fast, accurate, and reliable molecular docking with QuickVina 2** [[paper]](https://academic.oup.com/bioinformatics/article/31/13/2214/195750)
@@ -71,4 +72,5 @@
 ## SE(3) Model
 1. [2018 arXiv] **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds** [[paper]](https://arxiv.org/pdf/1802.08219.pdf)[[code]](https://github.com/tensorfieldnetworks/tensorfieldnetworks)
 1. [2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
-1. [2022 ICLR workshop] **Denoising diffu- sion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
+1. [2022 ICLR workshop] **Denoising diffusion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
+1. [2022 arXiv] **e3nn: Euclidean Neural Networks** [[paper]](https://arxiv.org/pdf/2207.09453.pdf)
