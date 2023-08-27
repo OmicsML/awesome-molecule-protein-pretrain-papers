@@ -4,6 +4,7 @@
   - [Molecule Pretrain Model / Representation Learning](#molecule-pretrain-model--representation-learning)
   - [Molecule Generative Model](#molecule-generative-model)
   - [Molecule Protein Docking Model](#molecule-protein-docking-model)
+  - [Chemistry Toolkits](#chemistry-toolkits)
   - [Molecule Dataset](#molecule-dataset)
 - [Protein](#protein)
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
@@ -50,7 +51,11 @@
 1. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
 1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand**[[paper]](https://arxiv.org/pdf/2206.12241.pdf)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-2. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
+1. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
+
+## Chemistry Toolkits
+1. [RDKit](http://www.rdkit.org/): Open-source cheminformatics software
+2. [PyMOL](https://pymol.org/2/): A user-sponsored molecular visualization system on an open-source foundation
 ## Molecule Dataset
 
 # Protein 
