@@ -20,10 +20,10 @@
 1. [2023 KDD] **Automated 3D Pre-Training for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2306.07812.pdf)[[code]](https://github.com/LARS-research/3D-PGT)
 1. [2022 KDD] **Unified 2D and 3D Pre-Training of Molecular Representations** [[paper]](https://arxiv.org/pdf/2207.08806.pdf)[[code]](https://github.com/teslacool/UnifiedMolPretrain)
 1. [2023 KDD] **Dual-view Molecule Pre-training** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599317)[[code]](https://github.com/microsoft/DVMP)
-1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand**[[paper]](https://arxiv.org/pdf/2206.12241.pdf)
-1. [2022 Nature Machine Intelligence] **Molecular contrastive learning of representations via graph neural networks** [[paper]](https://arxiv.org/pdf/2102.10056.pdf) [[code]](https://github.com/yuyangw/MolCLR)
+1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
+1. [2022 Nature Machine Intelligence] **Molecular contrastive learning of representations via graph neural networks** [[paper]](https://arxiv.org/pdf/2102.10056.pdf)[[code]](https://github.com/yuyangw/MolCLR)
 1. [2023 ICML] **Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language** [[paper]](https://openreview.net/forum?id=oeRMR0La70)
-1. [Briefings in Bioinformatics] **MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction** [[paper]](https://www.researchgate.net/profile/Dong-Sheng-Cao/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction/links/609743a9458515d31507d9e2/MG-BERT-leveraging-unsupervised-atomic-representation-learning-for-molecular-property-prediction.pdf) [[code]](https://github.com/zhang-xuan1314/Molecular-graph-BERT)
+1. [Briefings in Bioinformatics] **MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction** [[paper]](https://www.researchgate.net/profile/Dong-Sheng-Cao/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction/links/609743a9458515d31507d9e2/MG-BERT-leveraging-unsupervised-atomic-representation-learning-for-molecular-property-prediction.pdf)[[code]](https://github.com/zhang-xuan1314/Molecular-graph-BERT)
 1. [2021 NIPS] **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2110.00987.pdf)[[code]](https://github.com/zaixizhang/MGSSL)
 1. [2022 ICLR] **Spherical Message Passing for 3D Molecular Graphs** [[paper]](https://openreview.net/pdf?id=givsRXsOt9r)[[code]](https://github.com/divelab/DIG)
 1. [2022 NIPS] **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [[paper]](https://openreview.net/pdf?id=mCzMqeWSFJ)[[code]](https://github.com/divelab/DIG)
@@ -49,7 +49,7 @@
 1. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
 1. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
 1. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
-1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand**[[paper]](https://arxiv.org/pdf/2206.12241.pdf)
+1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 1. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
 
@@ -75,6 +75,7 @@
 
 # 3D Model 
 ## SE(3) Model
+1. [2013 Doc] **Lie groups for 2d and 3d transformations** [[paper]](https://ethaneade.org/lie.pdf)
 1. [2018 arXiv] **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds** [[paper]](https://arxiv.org/pdf/1802.08219.pdf)[[code]](https://github.com/tensorfieldnetworks/tensorfieldnetworks)
 1. [2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
 1. [2022 ICLR workshop] **Denoising diffusion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
