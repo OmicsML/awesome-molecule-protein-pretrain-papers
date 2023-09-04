@@ -38,6 +38,7 @@
 1. [2022 NIPS] **Torsional Diffusion for Molecular Conformer Generation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/994545b2308bbbbc97e3e687ea9e464f-Paper-Conference.pdf)[[code]](https://github.com/gcorso/torsional-diffusion)
 1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+1. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
 
 ## Molecule Protein Docking Model
 1. [2015 Bioinformatics] **Fast, accurate, and reliable molecular docking with QuickVina 2** [[paper]](https://academic.oup.com/bioinformatics/article/31/13/2214/195750)
