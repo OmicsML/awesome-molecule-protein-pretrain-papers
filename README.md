@@ -61,10 +61,16 @@
 # Protein 
 
 ## Protein Pretrain Model / Representation Learning
+1. [2020 bioRxiv] **Transformer protein language models are unsupervised structure learners** [[paper]](https://www.biorxiv.org/content/10.1101/2020.12.15.422761v1.full.pdf)[[code]](https://github.com/facebookresearch/esm)
+1. [2021 PNAS] **Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118)[[code]](https://github.com/facebookresearch/esm)
+1. [2021 ICML] **MSA Transformer** [[paper]](http://proceedings.mlr.press/v139/rao21a/rao21a.pdf)[[code]](https://github.com/facebookresearch/esm) 
+1. [2021 NIPS] **Language models enable zero-shot prediction of the effects of mutations on protein function** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)[[code]](https://github.com/facebookresearch/esm) 
 1. [2021 Nature] **Highly accurate protein structure prediction with AlphaFold** [[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)
+1. [2021 Science] **Accurate prediction of protein structures and interactions using a three-track neural network** [[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)
+1. [2022 ICML] **Learning inverse folding from millions of predicted structures** [[paper]](https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf)[[code]](https://github.com/deepmind/alphafold)
 1. [2022 bioRxiv] **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v3.full.pdf)[[code]](https://github.com/aqlaboratory/openfold)
-1. [2022 bioRxiv] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf?utm_campaign=M2D2%20Community%20Round-Up&utm_medium=email&utm_source=Revue%20newsletter)
 1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118)[[code]](https://github.com/facebookresearch/esm)
+1. [2022 bioRxiv] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf?utm_campaign=M2D2%20Community%20Round-Up&utm_medium=email&utm_source=Revue%20newsletter)
 1. [2023 Science] **Evolutionary-scale prediction of atomic-level protein structure with a language model** [[paper]](https://www.science.org/doi/abs/10.1126/science.ade2574)[[code]](https://github.com/facebookresearch/esm)
 1. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
 ## Protein Generative Model
