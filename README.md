@@ -53,6 +53,7 @@
 1. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 1. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
+1. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
 
 ## Chemistry Toolkits
 1. [RDKit](http://www.rdkit.org/): Open-source cheminformatics software
