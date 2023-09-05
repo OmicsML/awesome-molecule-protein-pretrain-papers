@@ -4,7 +4,7 @@
   - [Molecule Pretrain Model / Representation Learning](#molecule-pretrain-model--representation-learning)
   - [Molecule Generative Model](#molecule-generative-model)
   - [Molecule Protein Docking Model](#molecule-protein-docking-model)
-- [Tetrahedral Molecular Geometry](#tetrahedral-molecular-geometry)
+  - [Tetrahedral Molecular Geometry](#tetrahedral-molecular-geometry)
   - [Chemistry Toolkits](#chemistry-toolkits)
   - [Molecule Dataset](#molecule-dataset)
 - [Protein](#protein)
@@ -56,7 +56,7 @@
 1. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
 1. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
 
-# Tetrahedral Molecular Geometry
+## Tetrahedral Molecular Geometry
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 ## Chemistry Toolkits
 1. [RDKit](http://www.rdkit.org/): Open-source cheminformatics software
