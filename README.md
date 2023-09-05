@@ -60,7 +60,15 @@
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 ## Chemistry Toolkits
 1. [RDKit](http://www.rdkit.org/): Open-source cheminformatics software
-2. [PyMOL](https://pymol.org/2/): A user-sponsored molecular visualization system on an open-source foundation
+1. [PyMOL](https://pymol.org/2/): A user-sponsored molecular visualization system on an open-source foundation
+1. [CDK](https://cdk.github.io/): Chemistry Development Kit (Open Source modular Java libraries for Cheminformatics)
+1. [Open Babel](http://openbabel.org/wiki/Main_Page): The Open Source Chemistry Toolbox
+1. [Cinfony](https://cinfony.github.io/): a common API to several cheminformatics toolkits
+1. [Indigo](https://lifescience.opensource.epam.com/indigo/index.html): a universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization
+1. [ChemoPy](https://github.com/ifyoungnet/Chemopy): A freely available python package for computational biology and chemoinformatics
+1. [ChemmineR](https://www.bioconductor.org/packages/release/bioc/html/ChemmineR.html): A cheminformatics package for analyzing drug-like small molecule data in R
+1. [ChemKit](https://github.com/kylelutz/chemkit): An open source software library for chemistry
+1. [DeepChem](https://deepchem.io/): A Python library for machine learning and deep learning on molecular and quantum datasets
 ## Molecule Dataset
 
 # Protein 
