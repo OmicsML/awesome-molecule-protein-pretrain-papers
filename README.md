@@ -59,17 +59,31 @@
 ## Tetrahedral Molecular Geometry
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 ## Chemistry Toolkits
-1. [RDKit](http://www.rdkit.org/): Open-source cheminformatics software
-1. [PyMOL](https://pymol.org/2/): A user-sponsored molecular visualization system on an open-source foundation
-1. [CDK](https://cdk.github.io/): Chemistry Development Kit (Open Source modular Java libraries for Cheminformatics)
-1. [Open Babel](http://openbabel.org/wiki/Main_Page): The Open Source Chemistry Toolbox
-1. [Cinfony](https://cinfony.github.io/): a common API to several cheminformatics toolkits
-1. [Indigo](https://lifescience.opensource.epam.com/indigo/index.html): a universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization
-1. [ChemoPy](https://github.com/ifyoungnet/Chemopy): A freely available python package for computational biology and chemoinformatics
-1. [ChemmineR](https://www.bioconductor.org/packages/release/bioc/html/ChemmineR.html): A cheminformatics package for analyzing drug-like small molecule data in R
-1. [ChemKit](https://github.com/kylelutz/chemkit): An open source software library for chemistry
-1. [DeepChem](https://deepchem.io/): A Python library for machine learning and deep learning on molecular and quantum datasets
+1. [RDKit](http://www.rdkit.org/): **Open-source cheminformatics software**
+1. [PyMOL](https://pymol.org/2/): **A user-sponsored molecular visualization system on an open-source foundation**
+1. [CDK](https://cdk.github.io/): **Chemistry Development Kit (Open Source modular Java libraries for Cheminformatics)**
+1. [Open Babel](http://openbabel.org/wiki/Main_Page): **The Open Source Chemistry Toolbox**
+1. [Cinfony](https://cinfony.github.io/): **A common API to several cheminformatics toolkits**
+1. [Indigo](https://lifescience.opensource.epam.com/indigo/index.html): **A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization**
+1. [ChemoPy](https://github.com/ifyoungnet/Chemopy): **A freely available python package for computational biology and chemoinformatics**
+1. [ChemmineR](https://www.bioconductor.org/packages/release/bioc/html/ChemmineR.html): **A cheminformatics package for analyzing drug-like small molecule data in R**
+1. [ChemKit](https://github.com/kylelutz/chemkit): **An open source software library for chemistry**
+1. [DeepChem](https://deepchem.io/): **A Python library for machine learning and deep learning on molecular and quantum datasets**
 ## Molecule Dataset
+1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
+1. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
+1. 
+
+
+| Dataset Name   | Num of Molecules |  Property | About Data |
+| :------- | :-------: | -------: |  -------: | 
+| [GDB-17](https://gdb.unibe.ch/downloads/) | 166 billion | small organical molecules | chemical universe database |
+| [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) | 133,885|  quantum chemical properties | a subset of GDB-17 | 
+| [ZINC15](https://zinc15.docking.org/) | 230 million(3D), over 750 million | bioactivity of small molecules| biologically relevant small molecules |
+| [GuacaMol]() | | | |
+| [PubChem]() | | | |
+| [ChEMBL]() | | | |
+| [DrugBank]() | | | |
 
 # Protein 
 
