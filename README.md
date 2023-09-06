@@ -1,3 +1,4 @@
+This repository is a collection of awesome papers about deep learning model for molecule and protein. If you have any suggestions (missing papers, issues, other resources), feel free to pull a request or email me at `qiaolinlu99@gmail.com`. 
 # awesome-pretrain-molecule-protein-papers
 - [awesome-pretrain-molecule-protein-papers](#awesome-pretrain-molecule-protein-papers)
 - [Molecule](#molecule)
@@ -40,6 +41,7 @@
 1. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
 1. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 1. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
+1. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
 
 ## Molecule Protein Docking Model
 1. [2015 Bioinformatics] **Fast, accurate, and reliable molecular docking with QuickVina 2** [[paper]](https://academic.oup.com/bioinformatics/article/31/13/2214/195750)
@@ -72,18 +74,24 @@
 ## Molecule Dataset
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
 1. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
-
-
+1. [2016 Nucleic Acids Research] **PubChem Substance and Compound databases**
+1. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]]((https://benevolent.ai/guacamol))
+1. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
+1. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
 
 | Dataset Name   | Num of Molecules |  Property | About Data |
 | :-------: | :-------: | :-------: |  :-------: | 
 | [GDB-17](https://gdb.unibe.ch/downloads/) | 166B | small organical molecules | chemical universe database |
 | [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) | 133,885|  quantum chemical properties | a subset of GDB-17 | 
 | [ZINC15](https://zinc15.docking.org/) | 230M(3D), over 750M | bioactivity of small molecules| biologically relevant small molecules |
-| [GuacaMol]() | | | |
-| [PubChem]() | | | |
-| [ChEMBL]() | | | |
-| [DrugBank]() | | | |
+| [GuacaMol](https://github.com/BenevolentAI/guacamol) | N/A | benchmark suite for generative chemistry| a subset of molecules extracted from ChEMBL 24 |
+| [ChEMBL](https://www.ebi.ac.uk/chembl/) | 2.4M | bioactive molecules with drug-like properties | contains chemical, bioactivity and genomic data |
+| [PubChem BioAssay](https://pubchem.ncbi.nlm.nih.gov/) | 270,998,024 | PubChem BioAssay | a subset of PubChem|
+| [PubChem Compound](https://pubchem.ncbi.nlm.nih.gov/) | 1,366,263 | PubChem Compound | a subset of PubChem |
+| [PubChem Substance](https://pubchem.ncbi.nlm.nih.gov/) | 109,891,994 | PubChem Substance | a subset of PubChem |
+| [DrugBank 5.0](https://go.drugbank.com/) | N/A | drug data | bioinformatics and cheminformatics database |
+
+
 
 # Protein 
 
