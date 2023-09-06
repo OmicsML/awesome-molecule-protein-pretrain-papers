@@ -72,14 +72,14 @@
 ## Molecule Dataset
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
 1. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
-1. 
+
 
 
 | Dataset Name   | Num of Molecules |  Property | About Data |
-| :------- | :-------: | -------: |  -------: | 
-| [GDB-17](https://gdb.unibe.ch/downloads/) | 166 billion | small organical molecules | chemical universe database |
+| :-------: | :-------: | :-------: |  :-------: | 
+| [GDB-17](https://gdb.unibe.ch/downloads/) | 166B | small organical molecules | chemical universe database |
 | [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) | 133,885|  quantum chemical properties | a subset of GDB-17 | 
-| [ZINC15](https://zinc15.docking.org/) | 230 million(3D), over 750 million | bioactivity of small molecules| biologically relevant small molecules |
+| [ZINC15](https://zinc15.docking.org/) | 230M(3D), over 750M | bioactivity of small molecules| biologically relevant small molecules |
 | [GuacaMol]() | | | |
 | [PubChem]() | | | |
 | [ChEMBL]() | | | |
