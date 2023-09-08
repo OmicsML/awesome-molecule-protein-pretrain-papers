@@ -1,4 +1,4 @@
-This repository is a collection of awesome papers about deep learning model for molecule and protein. If you have any suggestions (missing papers, issues, other resources), feel free to pull a request or email me at `qiaolinlu99@gmail.com`. 
+This repository is a collection of awesome papers about deep learning model for molecule and protein. If you have any suggestions (missing papers, issues, other resources), feel free to pull a request or email me at [qiaolinlu99@gmail.com](mailto:qiaolinlu99@gmail.com). 
 # awesome-pretrain-molecule-protein-papers
 - [awesome-pretrain-molecule-protein-papers](#awesome-pretrain-molecule-protein-papers)
 - [Molecule](#molecule)
