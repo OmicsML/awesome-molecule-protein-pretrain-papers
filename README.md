@@ -90,7 +90,7 @@ This repository is a collection of awesome papers about deep learning model for 
 | [PubChem Compound](https://pubchem.ncbi.nlm.nih.gov/) | 1,366,263 | PubChem Compound | a subset of PubChem |
 | [PubChem Substance](https://pubchem.ncbi.nlm.nih.gov/) | 109,891,994 | PubChem Substance | a subset of PubChem |
 | [DrugBank 5.0](https://go.drugbank.com/) | N/A | drug data | bioinformatics and cheminformatics database |
-
+| [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF) | 430,000 |  drug data  | a larger scale dataset of molecular conformers than QM9 |
 
 
 # Protein 
@@ -119,5 +119,6 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2013 Doc] **Lie groups for 2d and 3d transformations** [[paper]](https://ethaneade.org/lie.pdf)
 1. [2018 arXiv] **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds** [[paper]](https://arxiv.org/pdf/1802.08219.pdf)[[code]](https://github.com/tensorfieldnetworks/tensorfieldnetworks)
 1. [2020 NIPS] **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks** [[paper]](https://arxiv.org/abs/2006.10503)[[code]](https://github.com/FabianFuchsML/se3-transformer-public)
+1. [2021 ICML] **E(n) Equivariant Graph Neural Networks** [[paper]](http://proceedings.mlr.press/v139/satorras21a/satorras21a.pdf)[[code]](https://github.com/vgsatorras/egnn)
 1. [2022 ICLR workshop] **Denoising diffusion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
 1. [2022 arXiv] **e3nn: Euclidean Neural Networks** [[paper]](https://arxiv.org/pdf/2207.09453.pdf)
