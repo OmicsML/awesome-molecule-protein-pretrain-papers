@@ -92,9 +92,11 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
 2. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 3. [2016 Nucleic Acids Research] **PubChem Substance and Compound databases**
-4. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol))
-5. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
-6. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
+4. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
+5. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
+6. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
+7. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
+
 
 |                                                 Dataset Name                                                 |  #Molecules  |                   Property                   |                       About Data                       |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------: | :-------------------------------------------: | :-----------------------------------------------------: |
@@ -108,7 +110,7 @@ This repository is a collection of awesome papers about deep learning model for 
 |                              [PubChem Substance](https://pubchem.ncbi.nlm.nih.gov/)                              |     109,891,994     |               PubChem Substance               |                   a subset of PubChem                   |
 |                                     [DrugBank 5.0](https://go.drugbank.com/)                                     |         N/A         |                   drug data                   |       bioinformatics and cheminformatics database       |
 |                                 [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF)                                 |      430,00 0      |                   drug data                   | a larger scale dataset of molecular conformers than QM9 |
-
+|[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
 # Protein
 
 ## Protein Pretrain Model / Representation Learning
@@ -127,10 +129,13 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
 
 ## Protein Protein Docking Model
-
+1. [2020 Sturcture] **Performance and its limits in rigid body protein-protein docking** [[paper]](https://www.cell.com/structure/pdf/S0969-2126(20)30209-4.pdf)[[web-link]](https://cluspro.bu.edu/login.php)
+2. [2020 Nature Protocols] **The HDOCK server for integrated protein–protein docking** [[paper]](https://www.nature.com/articles/s41596-020-0312-x)[[web-link]](http://hdock.phys.hust.edu.cn/)
+3. [2021 bioRxiv] **Improved docking of protein models by a combination of alphafold2 and cluspro** [[paper]](https://www.biorxiv.org/content/10.1101/2021.09.07.459290v2.full.pdf)
+4. [2022 ICLR] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking** [[paper]](https://arxiv.org/pdf/2111.07786.pdf)[[code]](https://github.com/octavian-ganea/equidock_public)
 ## Protein Generative Model
 
-1. [2023 ICLR] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)[[code]](https://github.com/divelab/DIG)
+1. [2023 ICLR] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks** [[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)[[code]](https://github.com/divelab/DIG)
 2. [2023 ICML] **Se(3) diffusion model with application to protein backbone generation** [[paper]](https://arxiv.org/pdf/2302.02277.pdf)[[code]](https://github.com/jasonkyuyim/se3_diffusion)
 3. [2023 ICLR] **Diffusion probabilistic modeling of protein backbones in 3d for the motif- scaffolding problem** [[paper]](https://openreview.net/forum?id=6TxBxqNME1Y)[[code]](https://github.com/blt2114/ProtDiff_SMCDiff)
 
