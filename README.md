@@ -92,10 +92,11 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
 2. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 3. [2016 Nucleic Acids Research] **PubChem Substance and Compound databases**
-4. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
-5. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
-6. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
-7. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
+4. [2017 Science Advances] **Machine learning of accurate energy-conserving molecular force fields** [[paper]](https://www.science.org/doi/10.1126/sciadv.1603015)[[data-link]](http://quantum-machine.org/datasets/)
+5. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
+6. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
+7. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
+8. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
 
 
 |                                                 Dataset Name                                                 |  #Molecules  |                   Property                   |                       About Data                       |
@@ -111,6 +112,7 @@ This repository is a collection of awesome papers about deep learning model for 
 |                                     [DrugBank 5.0](https://go.drugbank.com/)                                     |         N/A         |                   drug data                   |       bioinformatics and cheminformatics database       |
 |                                 [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF)                                 |      430,00 0      |                   drug data                   | a larger scale dataset of molecular conformers than QM9 |
 |[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
+| [MD17](https://archive.materialscloud.org/record/2020.82)| |||
 # Protein
 
 ## Protein Pretrain Model / Representation Learning
@@ -151,3 +153,4 @@ This repository is a collection of awesome papers about deep learning model for 
 4. [2021 ICML] **E(n) Equivariant Graph Neural Networks** [[paper]](http://proceedings.mlr.press/v139/satorras21a/satorras21a.pdf)[[code]](https://github.com/vgsatorras/egnn)
 5. [2022 ICLR workshop] **Denoising diffusion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
 6. [2022 arXiv] **e3nn: Euclidean Neural Networks** [[paper]](https://arxiv.org/pdf/2207.09453.pdf)
+7. [2023 ICLR] **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs** [[paper]](https://arxiv.org/pdf/2206.11990.pdf)[[code]](https://github.com/atomicarchitects/equiformer)
