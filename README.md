@@ -4,6 +4,7 @@ This repository is a collection of awesome papers about deep learning model for 
 
 - [awesome-pretrain-molecule-protein-papers](#awesome-pretrain-molecule-protein-papers)
 - [Molecule](#molecule)
+  - [Review](#review)
   - [Molecule Pretrain Model / Representation Learning](#molecule-pretrain-model--representation-learning)
   - [Molecule Generative Model](#molecule-generative-model)
   - [Molecule Protein Docking Model](#molecule-protein-docking-model)
@@ -19,7 +20,8 @@ This repository is a collection of awesome papers about deep learning model for 
   - [SE(3) Model](#se3-model)
 
 # Molecule
-
+## Review
+1. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
 ## Molecule Pretrain Model / Representation Learning
 
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)[[code]](https://github.com/dptech-corp/Uni-Mol.)
@@ -39,7 +41,7 @@ This repository is a collection of awesome papers about deep learning model for 
 
 ## Molecule Generative Model
 1. [2021 NIPS] **Geomol: Torsional geometric generation of molecular 3d conformer ensembles** [[paper]](https://proceedings.neurips.cc/paper/2021/file/725215ed82ab6306919b485b81ff9615-Paper.pdf)[[code]](https://github.com/PattanaikL/GeoMol)
-2. [2021 NIPS] **Predicting molec- ular conformation via dynamic graph score matching**
+2. [2021 NIPS] **Predicting molecular conformation via dynamic graph score matching**
 3. [2021 ICML] **GraphDF: A Discrete Flow Model for Molecular Graph Generation** [[paper]](https://proceedings.mlr.press/v139/luo21a.html)[[code]](https://github.com/divelab/DIG)
 4. [2023 ICLR workshop] **Improving Small Molecule Generation using Mutual Information Machine** [[paper]](https://openreview.net/forum?id=iOJlwUTUyrN)
 5. [2020 KDD] **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403104)[[code]](https://github.com/calvin-zcx/moflow)
@@ -129,6 +131,8 @@ This repository is a collection of awesome papers about deep learning model for 
 10. [2022 bioRxiv] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf?utm_campaign=M2D2%20Community%20Round-Up&utm_medium=email&utm_source=Revue%20newsletter)
 11. [2023 Science] **Evolutionary-scale prediction of atomic-level protein structure with a language model** [[paper]](https://www.science.org/doi/abs/10.1126/science.ade2574)[[code]](https://github.com/facebookresearch/esm)
 12. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
+13. [2023 bioRxiv] **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
+14. [2023 arXiv] **Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins** [[paper]](https://arxiv.org/pdf/2305.04934.pdf)[[code]](https://github.com/lamm-mit/MateriomicTransformer)
 
 ## Protein Protein Docking Model
 1. [2020 Sturcture] **Performance and its limits in rigid body protein-protein docking** [[paper]](https://www.cell.com/structure/pdf/S0969-2126(20)30209-4.pdf)[[web-link]](https://cluspro.bu.edu/login.php)
