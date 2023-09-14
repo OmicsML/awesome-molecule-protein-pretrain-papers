@@ -67,13 +67,14 @@ This repository is a collection of awesome papers about deep learning model for 
 8. [2020 Journal of Cheminformatics] **spyrmsd: symmetry-corrected RMSD calculations in Python**[[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00455-2)[[code]](https://github.com/RMeli/spyrmsd)
 9. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
 10. [2021 Briefings in Bioinformatics] **InstaDock: A single-click graphical user interface for molecular docking-based virtual high-throughput screening** [[paper]](https://doi.org/10.1093/bib/bbaa279)[[web-link]](https://www.hassanlab.org/instadock)
-11. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
-12. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
-13. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
-14. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
-15. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-16. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
-17. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
+11. [2021 Nature Machine Intelligence] **A geometric deep learning approach to predict binding conformations of bioactive molecules** [[paper]](https://www.nature.com/articles/s42256-021-00409-9)[[code]](https://github.com/OptiMaL-PSE-Lab/DeepDock)
+12. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
+13. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
+14. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
+15. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
+16. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+17. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
+18. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
 
 ## Tetrahedral Molecular Geometry
 
