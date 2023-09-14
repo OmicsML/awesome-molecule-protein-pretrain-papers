@@ -4,7 +4,7 @@ This repository is a collection of awesome papers about deep learning model for 
 
 - [awesome-pretrain-molecule-protein-papers](#awesome-pretrain-molecule-protein-papers)
 - [Molecule](#molecule)
-  - [Review](#review)
+  - [Survey](#survey)
   - [Molecule Pretrain Model / Representation Learning](#molecule-pretrain-model--representation-learning)
   - [Molecule Generative Model](#molecule-generative-model)
   - [Molecule Protein Docking Model](#molecule-protein-docking-model)
@@ -20,8 +20,9 @@ This repository is a collection of awesome papers about deep learning model for 
   - [SE(3) Model](#se3-model)
 
 # Molecule
-## Review
+## Survey
 1. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
+2. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
 ## Molecule Pretrain Model / Representation Learning
 
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)[[code]](https://github.com/dptech-corp/Uni-Mol.)
