@@ -13,6 +13,7 @@ This repository is a collection of awesome papers about deep learning model for 
   - [Molecule Dataset](#molecule-dataset)
 - [Protein](#protein)
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
+  - [Protein Evolution](#protein-evolution)
   - [Protein Protein Docking Model](#protein-protein-docking-model)
   - [Protein Generative Model](#protein-generative-model)
   - [Protein Dataset](#protein-dataset)
@@ -63,15 +64,16 @@ This repository is a collection of awesome papers about deep learning model for 
 5. [2018 IJCAI] **Interpretable drug target prediction using deep neural representation** [[paper]](https://www.ijcai.org/proceedings/2018/0468.pdf)
 6. [2019 Journal of Chemical Information and Modeling] **Are the Apo Proteins Suitable for the Rational Discovery of Allosteric Drugs?** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00735)
 7. [2020 Journal of Cheminformatics] **Edock: blind protein–ligand docking by replica-exchange monte carlo simulation** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00440-9)[[web-link]](https://seq2fun.dcmb.med.umich.edu//EDock/)
-8. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
-9. [2021 Briefings in Bioinformatics] **InstaDock: A single-click graphical user interface for molecular docking-based virtual high-throughput screening** [[paper]](https://doi.org/10.1093/bib/bbaa279)[[web-link]](https://www.hassanlab.org/instadock)
-10. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
-11. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
-12. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
-13. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
-14. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-15. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
-16. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
+8. [2020 Journal of Cheminformatics] **spyrmsd: symmetry-corrected RMSD calculations in Python**[[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00455-2)[[code]](https://github.com/RMeli/spyrmsd)
+9. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
+10. [2021 Briefings in Bioinformatics] **InstaDock: A single-click graphical user interface for molecular docking-based virtual high-throughput screening** [[paper]](https://doi.org/10.1093/bib/bbaa279)[[web-link]](https://www.hassanlab.org/instadock)
+11. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
+12. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
+13. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
+14. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
+15. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+16. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
+17. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
 
 ## Tetrahedral Molecular Geometry
 
@@ -89,7 +91,8 @@ This repository is a collection of awesome papers about deep learning model for 
 8. [ChemmineR](https://www.bioconductor.org/packages/release/bioc/html/ChemmineR.html): **A cheminformatics package for analyzing drug-like small molecule data in R**
 9. [ChemKit](https://github.com/kylelutz/chemkit): **An open source software library for chemistry**
 10. [DeepChem](https://deepchem.io/): **A Python library for machine learning and deep learning on molecular and quantum datasets**
-
+11. [MolVS](https://molvs.readthedocs.io/en/latest/): **Molecular Validation and Standardization**
+12. [spyrmsd](https://spyrmsd.readthedocs.io/en/develop/): **spyrmsd: symmetry-corrected RMSD calculations in Python**
 ## Molecule Dataset
 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
@@ -134,6 +137,9 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
 13. [2023 bioRxiv] **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
 14. [2023 arXiv] **Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins** [[paper]](https://arxiv.org/pdf/2305.04934.pdf)[[code]](https://github.com/lamm-mit/MateriomicTransformer)
+    
+## Protein Evolution 
+1. [2023 Nature] **Clustering-predicted structures at the scale of the known protein universe** [[paper]](https://www.nature.com/articles/s41586-023-06510-w)
 
 ## Protein Protein Docking Model
 1. [2020 Sturcture] **Performance and its limits in rigid body protein-protein docking** [[paper]](https://www.cell.com/structure/pdf/S0969-2126(20)30209-4.pdf)[[web-link]](https://cluspro.bu.edu/login.php)
