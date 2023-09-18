@@ -22,8 +22,9 @@ This repository is a collection of awesome papers about deep learning model for 
 
 # Molecule
 ## Survey
-1. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
-2. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
+1. [2022 Current Opinion in Structural Biology] **Deep learning approaches for de novo drug design: An overview** [[paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
+2. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
+3. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
 ## Molecule Pretrain Model / Representation Learning
 
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)[[code]](https://github.com/dptech-corp/Uni-Mol.)
