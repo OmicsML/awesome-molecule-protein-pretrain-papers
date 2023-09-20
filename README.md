@@ -56,7 +56,8 @@ This repository is a collection of awesome papers about deep learning model for 
 11. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
 12. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
 13. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
-
+14. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
+15. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
 
 ## Molecule Protein Docking Model
 
@@ -97,6 +98,8 @@ This repository is a collection of awesome papers about deep learning model for 
 10. [DeepChem](https://deepchem.io/): **A Python library for machine learning and deep learning on molecular and quantum datasets**
 11. [MolVS](https://molvs.readthedocs.io/en/latest/): **Molecular Validation and Standardization**
 12. [spyrmsd](https://spyrmsd.readthedocs.io/en/develop/): **spyrmsd: symmetry-corrected RMSD calculations in Python**
+13. [torchdrug](https://torchdrug.ai/): **A machine learning platform designed for drug discovery**
+14. [torchpretein](https://torchprotein.ai/): **A machine learning library for protein science, built on top of TorchDrug**
 ## Molecule Dataset
 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
@@ -141,7 +144,8 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [2022 Nature Communications] **ProtGPT2 is a deep unsupervised language model for protein design** [[paper]](https://www.nature.com/articles/s41467-022-32007-7)[[code]](https://huggingface.co/docs/transformers/main_classes/trainer)
 13. [2023 bioRxiv] **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
 14. [2023 arXiv] **Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins** [[paper]](https://arxiv.org/pdf/2305.04934.pdf)[[code]](https://github.com/lamm-mit/MateriomicTransformer)
-    
+15. [2023 bioRxiv] **Pretrainable Geometric Graph Neural Network for Antibody Affinity Maturation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.10.552845v1.full.pdf)
+
 ## Protein Evolution 
 1. [2023 Nature] **Clustering-predicted structures at the scale of the known protein universe** [[paper]](https://www.nature.com/articles/s41586-023-06510-w)
 
@@ -157,6 +161,8 @@ This repository is a collection of awesome papers about deep learning model for 
 3. [2023 ICLR] **Diffusion probabilistic modeling of protein backbones in 3d for the motif- scaffolding problem** [[paper]](https://openreview.net/forum?id=6TxBxqNME1Y)[[code]](https://github.com/blt2114/ProtDiff_SMCDiff)
 4. [2023 ICLR] **Protein sequence and structure co-design with equivariant translation** [[paper]](https://arxiv.org/pdf/2210.08761.pdf)
 5. [2023 ICML] **SE(3) diffusion model with application to protein backbone generation** [[paper]](https://arxiv.org/pdf/2302.02277.pdf)[[code]](https://github.com/jasonkyuyim/se3_diffusion)
+6. [2023 arXiv] **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing** [[paper]](https://arxiv.org/pdf/2306.01794.pdf)
+7. [2023 bioRxiv] **Protein generation with evolutionary diffusion: sequence is all you need** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1.abstract)
 ## Protein Dataset
 
 # 3D Model
