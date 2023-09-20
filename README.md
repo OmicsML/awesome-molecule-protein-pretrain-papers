@@ -99,7 +99,7 @@ This repository is a collection of awesome papers about deep learning model for 
 11. [MolVS](https://molvs.readthedocs.io/en/latest/): **Molecular Validation and Standardization**
 12. [spyrmsd](https://spyrmsd.readthedocs.io/en/develop/): **spyrmsd: symmetry-corrected RMSD calculations in Python**
 13. [torchdrug](https://torchdrug.ai/): **A machine learning platform designed for drug discovery**
-14. [torchpretein](https://torchprotein.ai/): **A machine learning library for protein science, built on top of TorchDrug**
+14. [torchprotein](https://torchprotein.ai/): **A machine learning library for protein science, built on top of TorchDrug**
 ## Molecule Dataset
 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
