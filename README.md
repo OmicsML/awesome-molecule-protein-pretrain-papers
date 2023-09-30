@@ -79,6 +79,8 @@ This repository is a collection of awesome papers about deep learning model for 
 16. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 17. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
 18. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
+19. [2023 Nature Computer Science] **Efficient and accurate large library ligand docking with KarmaDock** [[paper]](https://www.nature.com/articles/s43588-023-00511-5)[[code]](https://github.com/schrojunzhang/KarmaDock)
+20. [2023 Journal of chemical information and modeling] **BMaps: A Web Application for Fragment-Based Drug Design andCompound Binding Evaluation** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00209)[[web-link]](https://www.boltzmannmaps.com/)
 
 ## Tetrahedral Molecular Geometry
 
