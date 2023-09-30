@@ -52,12 +52,13 @@ This repository is a collection of awesome papers about deep learning model for 
 7. [2022 ICML] **Equivariant Diffusion for Molecule Generation in 3D** [[paper]](https://arxiv.org/pdf/2203.17003.pdf)[[code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 8. [2022 NIPS] **Torsional Diffusion for Molecular Conformer Generation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/994545b2308bbbbc97e3e687ea9e464f-Paper-Conference.pdf)[[code]](https://github.com/gcorso/torsional-diffusion)
 9. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
-10. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-11. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
-12. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
-13. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
-14. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
-15. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
+10. [2022 Research Square] **Accurate Protein-Ligand Complex Structure Prediction using Geometric Deep Learning** [[paper]](https://assets.researchsquare.com/files/rs-1454132/v1_covered.pdf?c=1647883536)[[code]](https://github.com/KeleiHe/LigPose)
+11. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+12. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
+13. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
+14. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
+15. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
+16. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
 
 ## Molecule Protein Docking Model
 
