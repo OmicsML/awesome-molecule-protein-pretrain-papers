@@ -9,6 +9,7 @@ This repository is a collection of awesome papers about deep learning model for 
   - [Molecule Generative Model](#molecule-generative-model)
   - [Molecule Protein Docking Model](#molecule-protein-docking-model)
   - [Tetrahedral Molecular Geometry](#tetrahedral-molecular-geometry)
+  - [Chemical Reaction](#chemical-reaction)
   - [Drug Discovery](#drug-discovery)
   - [Chemistry Toolkits](#chemistry-toolkits)
   - [Molecule Dataset](#molecule-dataset)
@@ -87,6 +88,9 @@ This repository is a collection of awesome papers about deep learning model for 
 ## Tetrahedral Molecular Geometry
 
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
+
+## Chemical Reaction
+1. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 
 ## Drug Discovery
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
