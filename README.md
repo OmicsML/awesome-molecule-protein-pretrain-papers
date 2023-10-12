@@ -61,6 +61,8 @@ This repository is a collection of awesome papers about deep learning model for 
 14. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
 15. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
 16. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
+17. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
+18. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
 
 ## Molecule Protein Docking Model
 
@@ -122,6 +124,7 @@ This repository is a collection of awesome papers about deep learning model for 
 6. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
 7. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
 8. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
+9. [2023 arXiv] **Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets** [[paper]](https://arxiv.org/pdf/2310.04292v2.pdf)
 
 
 |                                                 Dataset Name                                                 |  #Molecules  |                   Property                   |                       About Data                       |
