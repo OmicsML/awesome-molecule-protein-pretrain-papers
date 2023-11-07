@@ -96,6 +96,7 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 
 ## Drug Discovery
+1. [2021 Journal of Chemical Information and Modeling] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
@@ -116,6 +117,7 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [spyrmsd](https://spyrmsd.readthedocs.io/en/develop/): **spyrmsd: symmetry-corrected RMSD calculations in Python**
 13. [torchdrug](https://torchdrug.ai/): **A machine learning platform designed for drug discovery**
 14. [torchprotein](https://torchprotein.ai/): **A machine learning library for protein science, built on top of TorchDrug**
+15. [OpenChem](https://deepchem.io/): **A deep learning toolkit for computational chemistry and drug design**
 ## Molecule Dataset
 
 1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
