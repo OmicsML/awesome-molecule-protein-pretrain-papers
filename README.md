@@ -43,6 +43,7 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [2022 NIPS] **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [[paper]](https://openreview.net/pdf?id=mCzMqeWSFJ)[[code]](https://github.com/divelab/DIG)
 13. [2022 Nvidia] **MegaMolBART** [[web-link]](https://docs.nvidia.com/launchpad/ai/clara-megamolbart/latest/clara-megamolbart-overview.html)[[code]](https://github.com/NVIDIA/MegaMolBART)
 14. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
+15. [2023 arXiv] **Augmenting large language models with chemistry tools** [[paper]](https://arxiv.org/pdf/2304.05376.pdf)[[code]](https://github.com/ur-whitelab/chemcrow-public)
 
 ## Molecule Generative Model
 1. [2021 NIPS] **Geomol: Torsional geometric generation of molecular 3d conformer ensembles** [[paper]](https://proceedings.neurips.cc/paper/2021/file/725215ed82ab6306919b485b81ff9615-Paper.pdf)[[code]](https://github.com/PattanaikL/GeoMol)
@@ -97,6 +98,7 @@ This repository is a collection of awesome papers about deep learning model for 
 ## Drug Discovery
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
+3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
 
 ## Chemistry Toolkits
 
