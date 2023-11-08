@@ -44,6 +44,7 @@ This repository is a collection of awesome papers about deep learning model for 
 13. [2022 Nvidia] **MegaMolBART** [[web-link]](https://docs.nvidia.com/launchpad/ai/clara-megamolbart/latest/clara-megamolbart-overview.html)[[code]](https://github.com/NVIDIA/MegaMolBART)
 14. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 15. [2023 arXiv] **Augmenting large language models with chemistry tools** [[paper]](https://arxiv.org/pdf/2304.05376.pdf)[[code]](https://github.com/ur-whitelab/chemcrow-public)
+16. [2023 ICML workshop] **Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2307.12996.pdf)
 
 ## Molecule Generative Model
 1. [2021 NIPS] **Geomol: Torsional geometric generation of molecular 3d conformer ensembles** [[paper]](https://proceedings.neurips.cc/paper/2021/file/725215ed82ab6306919b485b81ff9615-Paper.pdf)[[code]](https://github.com/PattanaikL/GeoMol)
@@ -64,6 +65,8 @@ This repository is a collection of awesome papers about deep learning model for 
 16. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
 17. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
 18. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
+19. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
+20. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 
 ## Molecule Protein Docking Model
 
@@ -74,13 +77,13 @@ This repository is a collection of awesome papers about deep learning model for 
 5. [2018 IJCAI] **Interpretable drug target prediction using deep neural representation** [[paper]](https://www.ijcai.org/proceedings/2018/0468.pdf)
 6. [2019 Journal of Chemical Information and Modeling] **Are the Apo Proteins Suitable for the Rational Discovery of Allosteric Drugs?** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00735)
 7. [2020 Journal of Cheminformatics] **Edock: blind protein–ligand docking by replica-exchange monte carlo simulation** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00440-9)[[web-link]](https://seq2fun.dcmb.med.umich.edu//EDock/)
-8. [2020 Journal of Cheminformatics] **spyrmsd: symmetry-corrected RMSD calculations in Python**[[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00455-2)[[code]](https://github.com/RMeli/spyrmsd)
+8. [2020 Journal of Cheminformatics] **spyrmsd: symmetry-corrected RMSD calculations in Python** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00455-2)[[code]](https://github.com/RMeli/spyrmsd)
 9. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
 10. [2021 Briefings in Bioinformatics] **InstaDock: A single-click graphical user interface for molecular docking-based virtual high-throughput screening** [[paper]](https://doi.org/10.1093/bib/bbaa279)[[web-link]](https://www.hassanlab.org/instadock)
 11. [2021 Nature Machine Intelligence] **A geometric deep learning approach to predict binding conformations of bioactive molecules** [[paper]](https://www.nature.com/articles/s42256-021-00409-9)[[code]](https://github.com/OptiMaL-PSE-Lab/DeepDock)
 12. [2022 ICML] **EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction** [[paper]](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf)[[code]](https://github.com/HannesStark/EquiBind)
 13. [2022 NIPS] **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf)[[code]](https://github.com/luwei0917/TankBind)
-14. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**[[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
+14. [2022 Molecular Systems Biology] **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery** [[paper]](https://www.embopress.org/doi/full/10.15252/msb.202211081)
 15. [2022 arXiv] **CoSP: Co-supervised pretraining of pocket and ligand** [[paper]](https://arxiv.org/pdf/2206.12241.pdf)
 16. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 17. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
@@ -96,7 +99,7 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 
 ## Drug Discovery
-1. [2021 Journal of Chemical Information and Modeling] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
+1. [2021 Journal of Chemical Information and Modeling] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
@@ -126,7 +129,7 @@ This repository is a collection of awesome papers about deep learning model for 
 4. [2017 Science Advances] **Machine learning of accurate energy-conserving molecular force fields** [[paper]](https://www.science.org/doi/10.1126/sciadv.1603015)[[data-link]](http://quantum-machine.org/datasets/)
 5. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
 6. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
-7. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update**[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
+7. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
 8. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
 9. [2023 arXiv] **Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets** [[paper]](https://arxiv.org/pdf/2310.04292v2.pdf)
 
