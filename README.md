@@ -71,11 +71,11 @@ This repository is a collection of awesome papers about deep learning model for 
 ## Molecule Protein Docking Model
 
 1. [2015 Bioinformatics] **Fast, accurate, and reliable molecular docking with QuickVina 2** [[paper]](https://academic.oup.com/bioinformatics/article/31/13/2214/195750)
-2. [2016 Journal of Chemical Information and Modeling] **Protein-Ligand Scoring with Convolutional Neural Networks** [[paper]](https://arxiv.org/pdf/1612.02751.pdf)
+2. [2016 JCIM] **Protein-Ligand Scoring with Convolutional Neural Networks** [[paper]](https://arxiv.org/pdf/1612.02751.pdf)
 3. [2017 Scientific Reports] **Protein-Ligand Blind Docking Using QuickVina-W With Inter-Process Spatio-Temporal Integration** [[paper]](https://www.nature.com/articles/s41598-017-15571-7)
 4. [2018 Journal of Cheminformatics] **P2Rank: machine learning based tool for rapid and accurate prediction of ligand binding sites from protein structure** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0285-8)[[code]](http://github.com/rdk/p2rank)
 5. [2018 IJCAI] **Interpretable drug target prediction using deep neural representation** [[paper]](https://www.ijcai.org/proceedings/2018/0468.pdf)
-6. [2019 Journal of Chemical Information and Modeling] **Are the Apo Proteins Suitable for the Rational Discovery of Allosteric Drugs?** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00735)
+6. [2019 JCIM] **Are the Apo Proteins Suitable for the Rational Discovery of Allosteric Drugs?** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00735)
 7. [2020 Journal of Cheminformatics] **Edock: blind protein–ligand docking by replica-exchange monte carlo simulation** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00440-9)[[web-link]](https://seq2fun.dcmb.med.umich.edu//EDock/)
 8. [2020 Journal of Cheminformatics] **spyrmsd: symmetry-corrected RMSD calculations in Python** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00455-2)[[code]](https://github.com/RMeli/spyrmsd)
 9. [2021 Journal of Cheminformatics] **GNINA 1.0: molecular docking with deep learning** [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)[[code]](https://github.com/gnina/gnina)
@@ -89,7 +89,8 @@ This repository is a collection of awesome papers about deep learning model for 
 17. [2023 ICLR] **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking** [[paper]](https://arxiv.org/pdf/2210.06069.pdf)
 18. [2023 PNAS] **Contrastive learning in protein language space predicts interactions between drugs and protein targets** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2220778120)[[code]](https://github.com/samsledje/ConPLex_dev)
 19. [2023 Nature Computer Science] **Efficient and accurate large library ligand docking with KarmaDock** [[paper]](https://www.nature.com/articles/s43588-023-00511-5)[[code]](https://github.com/schrojunzhang/KarmaDock)
-20. [2023 Journal of chemical information and modeling] **BMaps: A Web Application for Fragment-Based Drug Design andCompound Binding Evaluation** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00209)[[web-link]](https://www.boltzmannmaps.com/)
+20. [2023 JCIM] **BMaps: A Web Application for Fragment-Based Drug Design andCompound Binding Evaluation** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00209)[[web-link]](https://www.boltzmannmaps.com/)
+21. [2023 JCTC] **Equivariant Flexible Modeling of the Protein–Ligand Binding Pose with Geometric Deep Learning** [[paper]](https://pubs.acs.org/doi/epdf/10.1021/acs.jctc.3c00273)[[code]](https://github.com/tiejundong/FlexPose)
 
 ## Tetrahedral Molecular Geometry
 
@@ -99,7 +100,7 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 
 ## Drug Discovery
-1. [2021 Journal of Chemical Information and Modeling] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
+1. [2021 JCIM] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
@@ -123,14 +124,14 @@ This repository is a collection of awesome papers about deep learning model for 
 15. [OpenChem](https://deepchem.io/): **A deep learning toolkit for computational chemistry and drug design**
 ## Molecule Dataset
 
-1. [2012 Journal of chemical information and modeling] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
-2. [2015 Journal of chemical information and modeling] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
+1. [2012 JCIM] **Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17** [[paper]](https://pubs.acs.org/doi/10.1021/ci300415d)
+2. [2015 JCIM] **ZINC 15 – Ligand Discovery for Everyone** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 3. [2016 Nucleic Acids Research] **PubChem Substance and Compound databases**
 4. [2017 Science Advances] **Machine learning of accurate energy-conserving molecular force fields** [[paper]](https://www.science.org/doi/10.1126/sciadv.1603015)[[data-link]](http://quantum-machine.org/datasets/)
 5. [2018 Nucleic Acids Research] **ChEMBL: towards direct deposition of bioassay data** [[paper]](https://academic.oup.com/nar/article/47/D1/D930/5162468)
 6. [2018 Nucleic Acids Research] **DrugBank 5.0: a major update to the DrugBank database for 2018** [[paper]](https://academic.oup.com/nar/article/46/D1/D1074/4602867)
-7. [2018 Journal of chemical information and modeling] **Comparative Assessment of Scoring Functions: The CASF-2016 Update** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
-8. [2019 Journal of chemical information and modeling] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
+7. [2018 JCIM] **Comparative Assessment of Scoring Functions: The CASF-2016 Update** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)[[web-link]](http://www.pdbbind.org.cn/casf.php)
+8. [2019 JCIM] **GuacaMol: Benchmarking Models for De Novo Molecular Design** [[paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)[[code]](https://github.com/BenevolentAI/guacamol)[[web-link]](https://benevolent.ai/guacamol)
 9. [2023 arXiv] **Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets** [[paper]](https://arxiv.org/pdf/2310.04292v2.pdf)
 
 
