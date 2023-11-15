@@ -57,16 +57,17 @@ This repository is a collection of awesome papers about deep learning model for 
 8. [2022 NIPS] **Torsional Diffusion for Molecular Conformer Generation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/994545b2308bbbbc97e3e687ea9e464f-Paper-Conference.pdf)[[code]](https://github.com/gcorso/torsional-diffusion)
 9. [2022 ICLR] **An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch** [[paper]](https://openreview.net/pdf?id=C03Ajc-NS5W)[[code]](https://github.com/divelab/DIG)
 10. [2022 Research Square] **Accurate Protein-Ligand Complex Structure Prediction using Geometric Deep Learning** [[paper]](https://assets.researchsquare.com/files/rs-1454132/v1_covered.pdf?c=1647883536)[[code]](https://github.com/KeleiHe/LigPose)
-11. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
-12. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
-13. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
-14. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
-15. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
-16. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
-17. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
-18. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
-19. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
-20. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
+11. [2022 arXiv] **BARTSmiles: Generative Masked Language Models for Molecular Representations** [[paper]](https://arxiv.org/abs/2211.16349)[[code]](https://github.com/YerevaNN/BARTSmiles/)
+12. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
+13. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
+14. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
+15. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
+16. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
+17. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
+18. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
+19. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
+20. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
+21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 
 ## Molecule Protein Docking Model
 
@@ -97,7 +98,10 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
 
 ## Chemical Reaction
-1. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
+1. [2018 Nature] **Planning chemical syntheses with deep neural networks and symbolic AI** [[paper]](https://www.nature.com/articles/nature25978)[[code-nonofficial]](https://github.com/linminhtoo/neuralsym)
+2. [2020 JCIM] **Predicting Retrosynthetic Reaction using Self-Corrected Transformer Neural Networks** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00949)[[code]](https://github.com/Jh-SYSU/SCROP)
+3. [2020 Chemical Science] **Automatic retrosynthetic route planning using template-free models** [[paper]](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc03666k)[[code]](https://github.com/PKUMDL-AI/AutoSynRoute)
+4. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 
 ## Drug Discovery
 1. [2021 JCIM] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
