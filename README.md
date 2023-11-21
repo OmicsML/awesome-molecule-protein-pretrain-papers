@@ -13,6 +13,7 @@ This repository is a collection of awesome papers about deep learning model for 
   - [Drug Discovery](#drug-discovery)
   - [Chemistry Toolkits](#chemistry-toolkits)
   - [Molecule Dataset](#molecule-dataset)
+  - [Materials](#materials)
 - [Protein](#protein)
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
   - [Protein Evolution](#protein-evolution)
@@ -68,6 +69,7 @@ This repository is a collection of awesome papers about deep learning model for 
 19. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
 20. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
+22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
 
 ## Molecule Protein Docking Model
 
@@ -92,6 +94,9 @@ This repository is a collection of awesome papers about deep learning model for 
 19. [2023 Nature Computer Science] **Efficient and accurate large library ligand docking with KarmaDock** [[paper]](https://www.nature.com/articles/s43588-023-00511-5)[[code]](https://github.com/schrojunzhang/KarmaDock)
 20. [2023 JCIM] **BMaps: A Web Application for Fragment-Based Drug Design andCompound Binding Evaluation** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00209)[[web-link]](https://www.boltzmannmaps.com/)
 21. [2023 JCTC] **Equivariant Flexible Modeling of the Protein–Ligand Binding Pose with Geometric Deep Learning** [[paper]](https://pubs.acs.org/doi/epdf/10.1021/acs.jctc.3c00273)[[code]](https://github.com/tiejundong/FlexPose)
+22. [2023 arXiv] **Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning** [[paper]](https://arxiv.org/pdf/2306.01474.pdf)
+23. [2023 Openreview] **The Discovery of Binding Modes Requires Rethinking Docking Generalization** [[paper]](https://openreview.net/pdf?id=UfBIxpTK10)
+24. [2023 Openreview] **Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models** [[paper]](https://openreview.net/forum?id=qH9nrMNTIW)
 
 ## Tetrahedral Molecular Geometry
 
@@ -108,6 +113,7 @@ This repository is a collection of awesome papers about deep learning model for 
 1. [2023 Nature Communications] **Discovery of senolytics using machine learning** [[paper]](https://www.nature.com/articles/s41467-023-39120-1)[[code]](https://zenodo.org/record/7870357)
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
+4. [2023 Openreview] **Drug Discovery with Dynamic Goal-aware Fragments** [[paper]](https://openreview.net/forum?id=sLGliHckR8)
 
 ## Chemistry Toolkits
 
@@ -153,6 +159,11 @@ This repository is a collection of awesome papers about deep learning model for 
 |                                 [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF)                                 |      430,00 0      |                   drug data                   | a larger scale dataset of molecular conformers than QM9 |
 |[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
 | [MD17](https://archive.materialscloud.org/record/2020.82)| |||
+
+## Materials
+1. [2023 Openreview] **Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding** [[paper]](https://openreview.net/forum?id=fxQiecl9HB)
+2. [2023 Openreview] **Scalable Diffusion for Materials Generation** [[paper]](https://openreview.net/forum?id=wm4WlHoXpC)
+3. [2023 Openreview] **MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design** [[paper]](https://openreview.net/forum?id=0VBsoluxR2)
 # Protein
 
 ## Protein Pretrain Model / Representation Learning
@@ -172,6 +183,7 @@ This repository is a collection of awesome papers about deep learning model for 
 13. [2023 bioRxiv] **xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
 14. [2023 arXiv] **Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins** [[paper]](https://arxiv.org/pdf/2305.04934.pdf)[[code]](https://github.com/lamm-mit/MateriomicTransformer)
 15. [2023 bioRxiv] **Pretrainable Geometric Graph Neural Network for Antibody Affinity Maturation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.10.552845v1.full.pdf)
+16. [2023 Openreview] **Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning** [[paper]](https://openreview.net/forum?id=BEH4mGo7zP)
 
 ## Protein Evolution 
 1. [2023 Nature] **Clustering-predicted structures at the scale of the known protein universe** [[paper]](https://www.nature.com/articles/s41586-023-06510-w)
@@ -190,6 +202,8 @@ This repository is a collection of awesome papers about deep learning model for 
 5. [2023 ICML] **SE(3) diffusion model with application to protein backbone generation** [[paper]](https://arxiv.org/pdf/2302.02277.pdf)[[code]](https://github.com/jasonkyuyim/se3_diffusion)
 6. [2023 arXiv] **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing** [[paper]](https://arxiv.org/pdf/2306.01794.pdf)
 7. [2023 bioRxiv] **Protein generation with evolutionary diffusion: sequence is all you need** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1.abstract)
+8. [2023 Openreview] **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [[paper]](https://openreview.net/forum?id=kJFIH23hXb)
+
 ## Protein Dataset
 
 # 3D Model
