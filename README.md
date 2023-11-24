@@ -21,7 +21,7 @@ This repository is a collection of awesome papers about deep learning model for 
   - [Protein Generative Model](#protein-generative-model)
   - [Protein Dataset](#protein-dataset)
 - [3D Model](#3d-model)
-  - [SE(3) Model](#se3-model)
+  - [Equivariant Model](#equivariant-model)
 
 # Molecule
 ## Survey
@@ -211,7 +211,7 @@ This repository is a collection of awesome papers about deep learning model for 
 
 # 3D Model
 
-## SE(3) Model
+## Equivariant Model
 
 1. [2013 Doc] **Lie groups for 2d and 3d transformations** [[paper]](https://ethaneade.org/lie.pdf)
 2. [2018 arXiv] **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds** [[paper]](https://arxiv.org/pdf/1802.08219.pdf)[[code]](https://github.com/tensorfieldnetworks/tensorfieldnetworks)
