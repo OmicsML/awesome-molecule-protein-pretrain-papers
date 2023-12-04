@@ -71,6 +71,7 @@ This repository is a collection of awesome papers about deep learning model for 
 20. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
+23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
 
 ## Molecule Protein Docking Model
 
