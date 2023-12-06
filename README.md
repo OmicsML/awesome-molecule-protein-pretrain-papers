@@ -116,6 +116,7 @@ This repository is a collection of awesome papers about deep learning model for 
 2. [2023 ICML] **Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions** [[paper]](https://openreview.net/pdf?id=BbZVFj0QPv)[[code]](https://github.com/leojklarner/Q-SAVI)
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
 4. [2023 Openreview] **Drug Discovery with Dynamic Goal-aware Fragments** [[paper]](https://openreview.net/forum?id=sLGliHckR8)
+5. [2023 ICML] **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=9qy9DizMlr)[[code]](https://github.com/bytedance/DecompDiff)
 
 ## Chemistry Toolkits
 
