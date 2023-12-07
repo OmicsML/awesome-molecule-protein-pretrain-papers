@@ -72,6 +72,7 @@ This repository is a collection of awesome papers about deep learning model for 
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
 23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
+24. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[code](https://github.com/HaotianZhangAI4Science/SurfGen)
 
 ## Molecule Protein Docking Model
 
@@ -189,6 +190,7 @@ This repository is a collection of awesome papers about deep learning model for 
 14. [2023 arXiv] **Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins** [[paper]](https://arxiv.org/pdf/2305.04934.pdf)[[code]](https://github.com/lamm-mit/MateriomicTransformer)
 15. [2023 bioRxiv] **Pretrainable Geometric Graph Neural Network for Antibody Affinity Maturation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.10.552845v1.full.pdf)
 16. [2023 Openreview] **Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning** [[paper]](https://openreview.net/forum?id=BEH4mGo7zP)
+17. [2023 ICLR] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)[[code]](https://github.com/DeepGraphLearning/GearNet)
 
 ## Protein Evolution 
 1. [2023 Nature] **Clustering-predicted structures at the scale of the known protein universe** [[paper]](https://www.nature.com/articles/s41586-023-06510-w)
@@ -208,6 +210,7 @@ This repository is a collection of awesome papers about deep learning model for 
 6. [2023 arXiv] **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing** [[paper]](https://arxiv.org/pdf/2306.01794.pdf)
 7. [2023 bioRxiv] **Protein generation with evolutionary diffusion: sequence is all you need** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1.abstract)
 8. [2023 Openreview] **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [[paper]](https://openreview.net/forum?id=kJFIH23hXb)
+9. [2023 Nature] **De novo design of protein structure and function with RFdiffusion** [[paper]](https://www.nature.com/articles/s41586-023-06415-8)[[code]](https://github.com/RosettaCommons/RFdiffusion)
 
 ## Protein Dataset
 
