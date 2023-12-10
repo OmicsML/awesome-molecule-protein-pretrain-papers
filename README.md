@@ -72,7 +72,7 @@ This repository is a collection of awesome papers about deep learning model for 
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
 23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
-24. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[code](https://github.com/HaotianZhangAI4Science/SurfGen)
+
 
 ## Molecule Protein Docking Model
 
@@ -118,6 +118,8 @@ This repository is a collection of awesome papers about deep learning model for 
 3. [2023 Current Opinion in Structural Biology] **Structure-based drug design with geometric deep learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
 4. [2023 Openreview] **Drug Discovery with Dynamic Goal-aware Fragments** [[paper]](https://openreview.net/forum?id=sLGliHckR8)
 5. [2023 ICML] **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=9qy9DizMlr)[[code]](https://github.com/bytedance/DecompDiff)
+6. [2023 Openreview] **Streamlining Generative Models for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=8DLVrWL78S)
+7. [2023 Openreview] **Long-Short-Range Message-Passing: A Fragmentation-Based Framework to Capture Non-Local Atomistic Interactions** [[paper]](https://openreview.net/forum?id=rvDQtdMnOl)
 
 ## Chemistry Toolkits
 
@@ -163,7 +165,7 @@ This repository is a collection of awesome papers about deep learning model for 
 |                                 [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF)                                 |      430,00 0      |                   drug data                   | a larger scale dataset of molecular conformers than QM9 |
 <!-- |CrossDocked2020| -->
 |[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
-| [MD17](https://archive.materialscloud.org/record/2020.82)| |||
+<!-- | [MD17](https://archive.materialscloud.org/record/2020.82)| ||| -->
 
 ## Materials
 1. [2023 Openreview] **Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding** [[paper]](https://openreview.net/forum?id=fxQiecl9HB)
