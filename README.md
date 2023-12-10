@@ -27,8 +27,9 @@ This repository is a collection of awesome papers about deep learning model for 
 ## Survey
 1. [2022 Current Opinion in Structural Biology] **Deep learning approaches for de novo drug design: An overview** [[paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
 2. [2022 arXiv] **Geometrically Equivariant Graph Neural Networks: A Survey** [[paper]](https://arxiv.org/pdf/2202.07230.pdf)
-3. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
-4. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
+3. [2022 arXiv] **MolGenSurvey:A Systematic Survey in Machine Learning Models for Molecule Design** [[paper]](https://arxiv.org/abs/2203.14500)
+4. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
+5. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
 ## Molecule Pretrain Model / Representation Learning
 
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)[[code]](https://github.com/dptech-corp/Uni-Mol.)
@@ -120,6 +121,8 @@ This repository is a collection of awesome papers about deep learning model for 
 5. [2023 ICML] **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=9qy9DizMlr)[[code]](https://github.com/bytedance/DecompDiff)
 6. [2023 Openreview] **Streamlining Generative Models for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=8DLVrWL78S)
 7. [2023 Openreview] **Long-Short-Range Message-Passing: A Fragmentation-Based Framework to Capture Non-Local Atomistic Interactions** [[paper]](https://openreview.net/forum?id=rvDQtdMnOl)
+8. [2023 ACS Central Science] **Geometric Deep Learning for Structure-Based Ligand Design** [[paper]](https://doi.org/10.1021/acscentsci.3c00572)
+9. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
 
 ## Chemistry Toolkits
 
@@ -164,8 +167,8 @@ This repository is a collection of awesome papers about deep learning model for 
 |                                     [DrugBank 5.0](https://go.drugbank.com/)                                     |         N/A         |                   drug data                   |       bioinformatics and cheminformatics database       |
 |                                 [GEOM-Drugs](https://doi.org/10.7910/DVN/JNGTDF)                                 |      430,00 0      |                   drug data                   | a larger scale dataset of molecular conformers than QM9 |
 <!-- |CrossDocked2020| -->
-|[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
-<!-- | [MD17](https://archive.materialscloud.org/record/2020.82)| ||| -->
+<!-- |[PDBBind](http://www.pdbbind.org.cn/index.php?action=showall)| 23,496 biomolecular complexes | binding affinity data (protein-protein, protein-ligand, protein-acid)| a subset of PDB database | 
+| [MD17](https://archive.materialscloud.org/record/2020.82)| ||| -->
 
 ## Materials
 1. [2023 Openreview] **Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding** [[paper]](https://openreview.net/forum?id=fxQiecl9HB)
