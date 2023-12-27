@@ -73,6 +73,7 @@ This repository is a collection of awesome papers about deep learning model for 
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
 22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
 23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
+24. [2023 ICLR] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126)[[code]](https://github.com/NVlabs/RetMol)
 
 
 ## Molecule Protein Docking Model
@@ -122,7 +123,8 @@ This repository is a collection of awesome papers about deep learning model for 
 6. [2023 Openreview] **Streamlining Generative Models for Structure-Based Drug Design** [[paper]](https://openreview.net/forum?id=8DLVrWL78S)
 7. [2023 Openreview] **Long-Short-Range Message-Passing: A Fragmentation-Based Framework to Capture Non-Local Atomistic Interactions** [[paper]](https://openreview.net/forum?id=rvDQtdMnOl)
 8. [2023 ACS Central Science] **Geometric Deep Learning for Structure-Based Ligand Design** [[paper]](https://doi.org/10.1021/acscentsci.3c00572)
-9. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
+9. [2023 ICLR] **De Novo Molecular Generation via Connection-aware Motif Mining** [[paper]](https://arxiv.org/abs/2302.01129)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
+10. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
 
 ## Chemistry Toolkits
 
