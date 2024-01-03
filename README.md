@@ -102,6 +102,7 @@ This repository is a collection of awesome papers about deep learning model for 
 22. [2023 arXiv] **Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning** [[paper]](https://arxiv.org/pdf/2306.01474.pdf)
 23. [2023 Openreview] **The Discovery of Binding Modes Requires Rethinking Docking Generalization** [[paper]](https://openreview.net/pdf?id=UfBIxpTK10)
 24. [2023 Openreview] **Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models** [[paper]](https://openreview.net/forum?id=qH9nrMNTIW)
+25. [2023 arXiv] **Generating Molecular Fragmentation Graphs with Autoregressive Neural Networks** [[paper]](https://arxiv.org/pdf/2304.13136.pdf)[[code]](https://github.com/samgoldman97/ms-pred)
 
 ## Tetrahedral Molecular Geometry
 
@@ -125,6 +126,7 @@ This repository is a collection of awesome papers about deep learning model for 
 8. [2023 ACS Central Science] **Geometric Deep Learning for Structure-Based Ligand Design** [[paper]](https://doi.org/10.1021/acscentsci.3c00572)
 9. [2023 ICLR] **De Novo Molecular Generation via Connection-aware Motif Mining** [[paper]](https://arxiv.org/abs/2302.01129)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
 10. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
+11. [2023 arXiv] **ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback** [[paper]](https://arxiv.org/pdf/2305.18090.pdf)[[code]](https://github.com/chao1224/ChatDrug)
 
 ## Chemistry Toolkits
 
