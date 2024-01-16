@@ -113,6 +113,7 @@ This repository is a collection of awesome papers about deep learning model for 
 2. [2020 JCIM] **Predicting Retrosynthetic Reaction using Self-Corrected Transformer Neural Networks** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00949)[[code]](https://github.com/Jh-SYSU/SCROP)
 3. [2020 Chemical Science] **Automatic retrosynthetic route planning using template-free models** [[paper]](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc03666k)[[code]](https://github.com/PKUMDL-AI/AutoSynRoute)
 4. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
+5. [2023 Nature Machine Intelligence] **Bridging the Gap between Chemical Reaction Pretraining and Conditional Molecule Generation with a Unified Model** [[paper]](https://www.nature.com/articles/s42256-023-00764-9)[[code]](https://github.com/qiangbo1222/Uni-RXN-official)
 
 ## Drug Discovery
 1. [2021 JCIM] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
@@ -127,6 +128,7 @@ This repository is a collection of awesome papers about deep learning model for 
 9. [2023 ICLR] **De Novo Molecular Generation via Connection-aware Motif Mining** [[paper]](https://arxiv.org/abs/2302.01129)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
 10. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
 11. [2023 arXiv] **ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback** [[paper]](https://arxiv.org/pdf/2305.18090.pdf)[[code]](https://github.com/chao1224/ChatDrug)
+12. [2023 ACS Central Science] **2023-ACS Central Science / Geometric Deep Learning for Structure-Based Ligand Design** [[paper]](https://pubs.acs.org/doi/full/10.1021/acscentsci.3c00572)
 
 ## Chemistry Toolkits
 
