@@ -71,9 +71,10 @@ This repository is a collection of awesome papers about deep learning model for 
 19. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
 20. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
 21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
-22. [2023 Openreview] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
-23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
-24. [2023 ICLR] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126)[[code]](https://github.com/NVlabs/RetMol)
+22. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
+23. [2023 ICLR] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126)[[code]](https://github.com/NVlabs/RetMol)
+24. [2024 ICLR] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
+25. [2024 ICLR] **Training-free Multi-objective Diffusion Model for 3D Molecule Generation** [[paper]](https://openreview.net/forum?id=X41c4uB4k0)
 
 
 ## Molecule Protein Docking Model
@@ -239,3 +240,4 @@ This repository is a collection of awesome papers about deep learning model for 
 8. [2022 ICLR workshop] **Denoising diffusion probabilistic models on so (3) for rotational alignment** [[paper]](https://openreview.net/pdf?id=BY88eBbkpe5)
 9. [2022 arXiv] **e3nn: Euclidean Neural Networks** [[paper]](https://arxiv.org/pdf/2207.09453.pdf)
 10. [2023 ICLR] **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs** [[paper]](https://arxiv.org/pdf/2206.11990.pdf)[[code]](https://github.com/atomicarchitects/equiformer)
+11. [2024 ICLR] **Hybrid Directional Graph Neural Network for Molecules** [[paper]](https://openreview.net/forum?id=BBD6KXIGJL)[[code]](https://github.com/AnonymousACode/HDGNN)
