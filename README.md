@@ -14,6 +14,7 @@ This repository is a collection of awesome papers about deep learning model for 
   - [Chemistry Toolkits](#chemistry-toolkits)
   - [Molecule Dataset](#molecule-dataset)
   - [Materials](#materials)
+  - [Molecular Dynamics](#molecular-dynamics)
 - [Protein](#protein)
   - [Protein Pretrain Model / Representation Learning](#protein-pretrain-model--representation-learning)
   - [Protein Evolution](#protein-evolution)
@@ -64,17 +65,19 @@ This repository is a collection of awesome papers about deep learning model for 
 12. [2023 ICLR] **Diffdock: Diffusion steps, twists, and turns for molecular docking** [[paper]](https://arxiv.org/pdf/2210.01776.pdf%3C/p%3E)[[code]](https://github.com/gcorso/DiffDock)
 13. [2023 ICLR] **De novo molecular generation via connection-aware motif mining** [[paper]](https://arxiv.org/pdf/2302.01129.pdf)[[code]](https://github.com/MIRALab-USTC/AI4Sci-MiCaM)
 14. [2023 ICML] **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [[paper]](https://arxiv.org/pdf/2305.07508.pdf)[[code]](https://github.com/pengxingang/MolDiff)
-15. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
-16. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
-17. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
-18. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
-19. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
-20. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
-21. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
-22. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
-23. [2023 ICLR] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126)[[code]](https://github.com/NVlabs/RetMol)
-24. [2024 ICLR] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
-25. [2024 ICLR] **Training-free Multi-objective Diffusion Model for 3D Molecule Generation** [[paper]](https://openreview.net/forum?id=X41c4uB4k0)
+15. [2023 ICML] **Geometric Latent Diffusion Models for 3D Molecule Generation** [[paper]](https://arxiv.org/pdf/2305.01140.pdf)[[code]](https://github.com/MinkaiXu/GeoLDM)
+16. [2023 ICLR] **Conditional antibody design as 3d equivariant graph translation** [[paper]](https://arxiv.org/pdf/2208.06073.pdf)[[code]](https://github.com/THUNLP-MT/MEAN)
+17. [2023 bioRxiv] **Guided Diffusion for molecular generation with interaction prompt** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)
+18. [2023 Nature Machine Intelligence] **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)[[code]](https://github.com/HaotianZhangAI4Science/ResGen)
+19. [2023 Nature Computational Science] **Learning on topological surface and geometric structure for 3D molecular generation** [[paper]](https://www.nature.com/articles/s43588-023-00530-2)[[code]](https://github.com/HaotianZhangAI4Science/SurfGen)
+20. [2023 arXiv] **Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model** [[paper]](https://arxiv.org/pdf/2304.06174.pdf)
+21. [2023 Nature Computational Science] **Guided diffusion for inverse molecular design** [[paper]](https://www.nature.com/articles/s43588-023-00532-0)[[code]](https://gitlab.com/porannegroup/gaudi)
+22. [2023 JACS] **Generative Models as an Emerging Paradigm in the Chemical Sciences** [[paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
+23. [2023 arXiv] **Generating Molecular Conformer Fields** [[paper]](https://arxiv.org/abs/2311.17932)
+24. [2023 ICLR] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126)[[code]](https://github.com/NVlabs/RetMol)
+25. [2024 ICLR] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks** [[paper]](https://openreview.net/forum?id=NSVtmmzeRB)
+26. [2024 ICLR] **Training-free Multi-objective Diffusion Model for 3D Molecule Generation** [[paper]](https://openreview.net/forum?id=X41c4uB4k0)
+27. [2024 Nature Machine Intelligence] **Generation of 3D molecules in pockets via a language model** [[paper]](https://github.com/stonewiseAIDrugDesign/Lingo3DMol)
 
 
 ## Molecule Protein Docking Model
@@ -182,6 +185,9 @@ This repository is a collection of awesome papers about deep learning model for 
 2. [2023 Openreview] **Scalable Diffusion for Materials Generation** [[paper]](https://openreview.net/forum?id=wm4WlHoXpC)
 3. [2023 Openreview] **MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design** [[paper]](https://openreview.net/forum?id=0VBsoluxR2)
 4. [2023 JACS] **MOFormer: Self-Supervised Transformer Model for Metal–Organic Framework Property Prediction** [[paper]](https://pubs.acs.org/doi/full/10.1021/jacs.2c11420)[[code]](https://github.com/zcao0420/MOFormer)
+
+## Molecular Dynamics
+1. [2023 arXiv] **Score dynamics: scaling molecular dynamics with picoseconds timestep via conditional diffusion model** [[paper]](https://arxiv.org/pdf/2310.01678.pdf)[[code]](https://github.com/llnl/graphite)
 # Protein
 
 ## Protein Pretrain Model / Representation Learning
