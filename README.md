@@ -118,6 +118,7 @@ This repository is a collection of awesome papers about deep learning model for 
 3. [2020 Chemical Science] **Automatic retrosynthetic route planning using template-free models** [[paper]](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc03666k)[[code]](https://github.com/PKUMDL-AI/AutoSynRoute)
 4. [2023 Nature Communications] **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [[paper]](https://www.nature.com/articles/s41467-023-41698-5)[[code]](https://github.com/wangyu-sd/RetroExplainer)
 5. [2023 Nature Machine Intelligence] **Bridging the Gap between Chemical Reaction Pretraining and Conditional Molecule Generation with a Unified Model** [[paper]](https://www.nature.com/articles/s42256-023-00764-9)[[code]](https://github.com/qiangbo1222/Uni-RXN-official)
+6. [2024-ICLR] **RetroBridge: Modeling Retrosynthesis with Markov Bridges** [[paper]](https://arxiv.org/abs/2308.16212)
 
 ## Drug Discovery
 1. [2021 JCIM] **OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design** [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00971)
