@@ -31,6 +31,8 @@ This repository is a collection of awesome papers about deep learning model for 
 3. [2022 arXiv] **MolGenSurvey:A Systematic Survey in Machine Learning Models for Molecule Design** [[paper]](https://arxiv.org/abs/2203.14500)
 4. [2023 Engineering] **Machine Learning for Chemistry: Basics and Applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
 5. [2023 IJCAI] **A Systematic Survey of Chemical Pre-trained Models** [[paper]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)[[code]](https://github.com/junxia97/awesome-pretrain-on-molecules)
+6. [2023 Wiley] **Generative models for molecular discovery: Recent advances and challenges** [[paper]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608)
+7. [2024 arXiv] **A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications** [[paper]](https://arxiv.org/pdf/2403.00485.pdf)
 ## Molecule Pretrain Model / Representation Learning
 
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)[[code]](https://github.com/dptech-corp/Uni-Mol.)
@@ -111,6 +113,7 @@ This repository is a collection of awesome papers about deep learning model for 
 ## Tetrahedral Molecular Geometry
 
 1. [2020 NIPS workshop] **Message Passing Networks for Molecules with Tetrahedral Chirality** [[paper]](https://arxiv.org/pdf/2012.00094.pdf)[[code]](https://github.com/PattanaikL/chiral_gnn)
+2. [2023 Nature Reviews Chemistry] **Detection and analysis of chiral molecules as disease biomarkers** [[paper]](https://www.nature.com/articles/s41570-023-00476-z)
 
 ## Chemical Reaction
 1. [2018 Nature] **Planning chemical syntheses with deep neural networks and symbolic AI** [[paper]](https://www.nature.com/articles/nature25978)[[code-nonofficial]](https://github.com/linminhtoo/neuralsym)
@@ -134,6 +137,7 @@ This repository is a collection of awesome papers about deep learning model for 
 10. [2023 NIPS] **Tartarus: A benchmarking platform for realistic and practical inverse molecular design** [[paper]](https://arxiv.org/abs/2209.12487) [[code]](https://github.com/aspuru-guzik-group/Tartarus)
 11. [2023 arXiv] **ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback** [[paper]](https://arxiv.org/pdf/2305.18090.pdf)[[code]](https://github.com/chao1224/ChatDrug)
 12. [2023 ACS Central Science] **2023-ACS Central Science / Geometric Deep Learning for Structure-Based Ligand Design** [[paper]](https://pubs.acs.org/doi/full/10.1021/acscentsci.3c00572)
+13. [2023 Wiley] **Generative models for molecular discovery: Recent advances and challenges** [[paper]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608)
 
 ## Chemistry Toolkits
 
